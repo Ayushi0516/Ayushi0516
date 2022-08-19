@@ -2,6 +2,7 @@
  
  # 💫 About Me:
  I am Ayushi Gupta, an ambitious and resilient professional who focuses on writing efficient code.<br>I am currently learning the MERN stack at Masai School and looking forward to collaborating on open-source projects.
+ when I am not coding ,I love reading fictional novels,gardening with some soft music or may be baking. 
 
 
 ## 🌐 Socials:
