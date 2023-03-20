@@ -1,12 +1,14 @@
  Hi there 👋
  
  # 💫 About Me:
- I am Ayushi Gupta, an ambitious and resilient professional who focuses on writing efficient code.<br>I am currently learning the MERN stack at Masai School and looking forward to collaborate on open-source projects.
-  when I am not coding ,I love reading fictional novels,gardening with some soft music or may be baking.
+ I am Ayushi Gupta, an ambitious and resilient professional who focuses on writing efficient code.I am Full Stack Web Developer and Computer Science graduate
+specializing in MERN stack having over 1200+ hours of coding experience and 600+ hours of DSA. Proficient in working together as a team and executing result-oriented projects.Observant and curious, with a keen interest in building user-centric designs and translating business requirements into technical solutions, and looking forward to sharpening my skills in a demanding workplace. when I am not coding, I love reading fictional novels and listening to podcasts.
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushi-gupta-b98676236) 
+
+
 
 
 # 💻 Tech Stack:
