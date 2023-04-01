@@ -2,7 +2,7 @@
  
  # 💫 About Me
  I am Ayushi Gupta, an ambitious and resilient professional who focuses on writing efficient code.I am Full Stack Web Developer and Computer Science graduate
-specializing in MERN stack having over 1200+ hours of coding experience and 600+ hours of DSA. Proficient in working together as a team and executing result-oriented projects.Observant and curious, with a keen interest in building user-centric designs and translating business requirements into technical solutions, and looking forward to sharpening my skills in a demanding workplace. when I am not coding, I love reading fictional novels and listening to podcasts.
+specializing in MERN stack having over 1200+ hours of coding experience and 600+ hours of DSA. Proficient in working together as a team and executing result-oriented projects.Observant and curious, with a keen interest in building user-centric designs and translating business requirements into technical solutions, and looking forward to sharpening my skills in a demanding workplace. when I am not coding, I love reading fictional novels and listening to podcasts
 
 
 ## 🌐 Socials:
