@@ -4,7 +4,7 @@
 I am Ayushi Gupta, an ambitious and resilient professional who focuses on writing efficient code.I am Full Stack Web Developer and Computer Science graduate
 specializing in MERN stack having over 1200+ hours of coding experience and 600+ hours of DSA. I have completed several personal projects using this stack, including building a simple e-commerce website. I am proficient in creating front-end applications using React, managing state with Redux, and developing RESTful APIs using Node.js and Express. I am also familiar with MongoDB and can use it to store and manage data for web applications.
 As a MERN Developer, I am eager to learn and grow in my role. I am passionate about building user-friendly and scalable web applications using the latest web technologies. I am a quick learner, detail-oriented, and possess excellent problem-solving and communication skills. I believe that my technical skills and eagerness to learn will make me a strong fit for your team. 
-when I am not coding, I love reading fictional novels and listening podcasts
+when I am not coding, I love reading fictional novels and listening to podcasts.
 
 
 
